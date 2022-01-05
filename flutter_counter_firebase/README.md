@@ -8,6 +8,6 @@ A full tutorial on how the program works can be found on my youtube channel at:
 
 Please share the codes around if you find it beneficial for you and let's everyone understand the same.
 
-Feel free to contact me for any comments and suggestions at: <b>yusnaidi.kl@utm.my</b>
+Feel free to contact me for any comments and suggestions at: <b>yusnaidimdy@gmail.com</b>
 
 Start inventing now and have fun in coding!
