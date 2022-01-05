@@ -1,6 +1,6 @@
 ## Cloud Firestore program using Flutter
 
-This program demonstrate how to create a cloud firestore database and access the content of the database from witihin Android app using Flutter. The program has been tested to work with these configurations: Android Studio ver Arctic Fox/2020.3.1, Flutter SDK ver 2.8.0, Windows 10 64-bit, and Cloud Firestore ver 3.1.5. The program has been tested to run on Android emulator, but can also run on iOS and web browser (Chrome or Edge) with certain configuration.
+This program demonstrate how to create a cloud firestore database and access the content of the database from witihin Android app using Flutter. The program has been tested to work with these configurations: Android Studio ver Arctic Fox/2020.3.1, Flutter SDK ver 2.8.0, Windows 10 64-bit, and Cloud Firestore ver 3.1.5. The program has been tested to run on Android emulator, but can also run on iOS and web browser (Chrome or Edge) with additional configuration.
 
 A full tutorial on how the program works can be found on my youtube channel at:
 
