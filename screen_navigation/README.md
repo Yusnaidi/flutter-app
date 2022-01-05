@@ -1,16 +1,13 @@
-# flutter_app
+## Screen navigation program using Flutter
 
-A new Flutter project.
+This program demonstrate how to create and navigate between screens in mobile devices. The program can be run either on real phone, emulator, or web browser (Chrome or Edge).
 
-## Getting Started
+A full tutorial on how the program works can be found on my youtube channel at:
 
-This project is a starting point for a Flutter application.
+- https://youtu.be/Q-2M4oBgdrU
 
-A few resources to get you started if this is your first Flutter project:
+Please share the codes around if you find it beneficial for you and let's everyone understand the same.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Feel free to contact me for any comments and suggestions at: <b>yusnaidi.kl@utm.my</b>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Start inventing now and have fun in coding!

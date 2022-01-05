@@ -1,16 +1,13 @@
-# flutter_google_maps
+## Google maps program using Flutter
 
-A new Flutter project.
+This program demonstrate how to add google maps for mobile viewing using Flutter. The program can be run on Android emulator or real mobile devices. The main file is located in the 'lib' folder.
 
-## Getting Started
+A full tutorial on how the program works can be found on my youtube channel at:
 
-This project is a starting point for a Flutter application.
+- https://www.youtube.com/watch?v=EE8Y-xPS1A0
 
-A few resources to get you started if this is your first Flutter project:
+Please share the codes around if you find it beneficial for you and let's everyone understand the same.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Feel free to contact me for any comments and suggestions at: <b>yusnaidi.kl@utm.my</b>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Start inventing now and have fun in coding!
