@@ -4,7 +4,7 @@ This program demonstrate how to create a cloud firestore database and access the
 
 A full tutorial on how the program works can be found on my youtube channel at:
 
-- https://youtu.be/Q-2M4oBgdrU
+- https://youtu.be/Y7XIxpaXp5Y
 
 Please share the codes around if you find it beneficial for you and let's everyone understand the same.
 
